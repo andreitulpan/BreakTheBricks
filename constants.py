@@ -47,7 +47,7 @@ BRICK1 = pygame.image.load("images/brick1.png")
 BRICK2 = pygame.image.load("images/brick2.png")
 BRICK3 = pygame.image.load("images/brick3.png")
 
-GAME_NAME = "EL PULE NEGRO CEA MAI MARE DIN PARCARE"
+GAME_NAME = "BREAK THE BRICKS"
 GAMEOVER = ["MAI BAGA O FISA", "BRIBE ME", "WIN YOU SHALL NOT", "CE-I AIA COX?", "HAIDETI MAI, ZICETI", "A PIERDUT BARCA"]
 EVENTS = ["Score", "Lives", "Bomb", "Damage", "Fatality"]
 BONUSES = ["+1 Life", "+500 Points", "+1000 Points", "Viva Barcelona", "+750 Points", "+2 Lives"]
